@@ -1,2 +1,2 @@
 # health-diagnostic
-This repo is about health-diagnostic-system
+A web based application which predicts the disease by taking symptoms as input.
